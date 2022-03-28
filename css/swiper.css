@@ -1,0 +1,22 @@
+html { 
+    background: #000000;
+	overflow-x: hidden;
+    overflow-y: hidden; 	
+}
+.container {
+	padding: 150px;
+}
+.slider_image {
+	text-align: center;
+}
+.slider_image img {
+	max-width: 100%;
+}
+.swiper-button-next, .swiper-button-prev {
+    color: #ffffff;
+}
+.swiper-pagination-bullet {
+	width: 15px;
+	height: 15px;
+	background-color: #ffffff;
+}
